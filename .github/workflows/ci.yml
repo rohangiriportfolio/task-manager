@@ -34,4 +34,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/task-manager:latest
+          tags: rohangiri/task-manager:latest
